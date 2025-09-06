@@ -1,3 +1,4 @@
-# git_example
+# git_example_abendschule
 
-This is an example  project to demonstrate the use in school
+## Description A
+This is an updatet description of my fancy github project.
